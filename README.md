@@ -17,3 +17,6 @@ Prime Number Generators created for Doug Bierer's book
 
 # Bcpowmod:
   This function is used for efficiently computing a^b % c using the binary exponentiation method, which is crucial for handling large numbers involved in primality tests.
+
+# Example Usage:
+  Running this code will generate the first 10 prime numbers greater than 1000. You can adjust the $min and $num variables to generate different sets of primes.
